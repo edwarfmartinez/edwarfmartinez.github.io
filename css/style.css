@@ -75,13 +75,13 @@ nav ul li a:after {
     right: 42px;
     opacity: 0;
     transition: background .3s;
-    background: #986643
+    background: #000000
 }
 
 nav ul li a:hover {
     text-decoration: none;
     transition: all .15s;
-    color: #986643
+    color: #000000
 }
 
 nav ul li a:hover:after {
@@ -666,7 +666,7 @@ input[type=button] {
 }
 
 .portfolio-menu .portfolio-menu__link--active {
-    color: #986643;
+    color: #000000;
     text-decoration: none
 }
 
